@@ -1,0 +1,28 @@
+*{
+    font-family: 'Roboto';
+    margin: 0px;
+    padding: 0px;
+}
+
+.login-hero{
+    width: auto;
+    height: 70vh;
+}
+
+.container{
+    height: 100vh;
+
+}
+
+.row{
+    height: 100vh;
+}
+
+.btn{
+    background-color: #256D85;
+    width: 100%;
+}
+.btn:hover{
+    background-color: #0d617d;
+    
+}
